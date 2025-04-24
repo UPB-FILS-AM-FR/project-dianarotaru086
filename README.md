@@ -20,7 +20,7 @@ Le projet peut devenir une excellente base pour un robot éducatif, aidant les �
 
 Un autre domaine dans lequel ce projet peut être étendu est la sécurité. Le robot peut être adapté pour détecter des sons spécifiques (comme des applaudissements ou des bruits inhabituels) et alerter les utilisateurs ou même activer des caméras de surveillance.
 
-## Components
+## Composants
 
 | Appareil                                     | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
 |----------------------------------------------|----------------------------------------------|----------------------|--------------------|
