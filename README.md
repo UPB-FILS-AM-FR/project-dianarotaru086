@@ -20,4 +20,19 @@ Le projet peut devenir une excellente base pour un robot éducatif, aidant les �
 
 Un autre domaine dans lequel ce projet peut être étendu est la sécurité. Le robot peut être adapté pour détecter des sons spécifiques (comme des applaudissements ou des bruits inhabituels) et alerter les utilisateurs ou même activer des caméras de surveillance.
 
+## Components
+
+| Appareil                                     | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
+|----------------------------------------------|----------------------------------------------|----------------------|--------------------|
+| Arduino Uno R3 (ATmega328p + ATmega16u2)     | Microcontrôleur                              | 45.69                | 45.69              |
+| L293D Module de commande de moteur           | Pilote de moteur pour contrôler les moteurs  | 12.99                | 12.99              |
+| DC 12V Moteurs à engrenages avec roues       | Moteurs pour le mouvement des robots         | 14.99                | 59.96              |
+| KY-038 Module de capteur sonore              | Capteur de détection sonore                  | 5.95                 | 5.95               |
+| 18650 Support de batterie avec interrupteur  | Support de batterie pour alimentation        | 7.14                 | 7.14               |
+| Fils de liaison (mâle-femelle)               | Composants de connexion                      | 7.94                 | 7.94               |
+| 18650 Batterie                               | Alimentation électrique pour moteu           | 8.00                 | 16.00              |
+
+
+
+
 
