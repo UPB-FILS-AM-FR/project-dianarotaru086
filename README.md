@@ -1,4 +1,4 @@
-🤖 **<h2>Robot contrôlé par claquement de mains avec Arduino Uno</h2>** 👏
+<h2>🤖 Robot contrôlé par claquement de mains avec Arduino Uno 👏 </h2>
 
 ## Description
 
