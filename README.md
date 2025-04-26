@@ -37,6 +37,7 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 ![Robot_Components](./Robot_Components.png)
 
 ## Schéma électrique
+![Schema_electrique](./electric_schema.png)
 
 ## Composants
 
