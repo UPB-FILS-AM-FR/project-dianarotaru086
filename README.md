@@ -12,7 +12,7 @@ Ce projet consiste en un robot mobile capable de détecter les claquements de ma
 
 ## Motivation
 
-L’un des principaux avantages de ce projet est sa polyvalence. Bien que le robot soit simple, le système peut être étendu et adapté à une variété d’applications. Il s'agit notamment de :
+L’un des principaux avantages de ce projet est sa polyvalence. Bien que reposant sur une conception électronique minimaliste, la plateforme offre des possibilités d’extension quasi illimitées pour des applications avancées dans divers domaines technologiques.
 
 Systèmes de contrôle gestuel pour les utilisateurs handicapés: L’un des domaines les plus importants dans lesquels ce projet pourrait apporter des avantages significatifs est l’accessibilité. Les personnes à mobilité réduite pourraient utiliser les applaudissements pour contrôler des robots ou d’autres appareils électroniques. Cela permettrait de rendre la technologie plus accessible à un large public.
 
