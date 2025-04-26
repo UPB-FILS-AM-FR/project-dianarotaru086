@@ -1,4 +1,7 @@
-|Auteur| Diana Maria Rotaru |
+| Autor              | Alte informații     |
+|--------------------|---------------------|
+| Diana Maria Rotaru | [GitHub Profile](https://github.com/dianarotaru086) |
+
 <h2>Robot contrôlé par claquement de mains avec Arduino Uno 👏 </h2>
 
 ## Description
