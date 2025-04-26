@@ -8,29 +8,31 @@ Ces dernières années, la technologie robotique a considérablement évolué, o
 
 L’un des principaux avantages de ce projet est sa polyvalence. Bien que le robot soit simple, le système peut être étendu et adapté à une variété d’applications. Il s'agit notamment de :
 
-1. Systèmes de contrôle gestuel pour les utilisateurs handicapés ♿
+1. Systèmes de contrôle gestuel pour les utilisateurs handicapés 
 
 L’un des domaines les plus importants dans lesquels ce projet pourrait apporter des avantages significatifs est l’accessibilité. Les personnes à mobilité réduite pourraient utiliser les applaudissements pour contrôler des robots ou d’autres appareils électroniques. Cela permettrait de rendre la technologie plus accessible à un large public.
 
-2. Robots éducatifs pour l'apprentissage de la robotique 🎓
+2. Robots éducatifs pour l'apprentissage de la robotique 
 
 Le projet peut devenir une excellente base pour un robot éducatif, aidant les étudiants à apprendre les concepts fondamentaux de la robotique et de l’électronique. Dans les cours de robotique, les élèves peuvent en apprendre davantage sur les capteurs sonores, le contrôle des moteurs et la programmation à l'aide d'Arduino, le tout grâce à un contrôle robotique simple et intuitif.
 
-3. Systèmes de sécurité intelligents 🛡️
+3. Automatisation industrielle et collaborative 
 
-Un autre domaine dans lequel ce projet peut être étendu est la sécurité. Le robot peut être adapté pour détecter des sons spécifiques (comme des applaudissements ou des bruits inhabituels) et alerter les utilisateurs ou même activer des caméras de surveillance.
+Dans le milieu industriel, cette pointe de robot peut être utilisée pour ajuster l'automatisation d'un ou de sarcins répétitifs. Par exemple, un robot peut transporter des objets dans un dépôt, et un autre peut contrôler plusieurs robots à partir de la main, en coordonnant le travail pour divers sarcins.
 
 ## Composants
 
 | Appareil                                     | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
 |----------------------------------------------|----------------------------------------------|----------------------|--------------------|
 | Arduino Uno R3 (ATmega328p + ATmega16u2)     | Microcontrôleur                              | 45.69                | 45.69              |
+| Câble USB                                    | Pour faire la connection                     | 5.95                 | 5.95               |
 | L293D Module de commande de moteur           | Pilote de moteur pour contrôler les moteurs  | 12.99                | 12.99              |
 | DC 12V Moteurs à engrenages avec roues       | Moteurs pour le mouvement des robots         | 14.99                | 59.96              |
 | KY-038 Module de capteur sonore              | Capteur de détection sonore                  | 5.95                 | 5.95               |
 | 18650 Support de batterie avec interrupteur  | Support de batterie pour alimentation        | 7.14                 | 7.14               |
 | Fils de liaison (mâle-femelle)               | Composants de connexion                      | 7.94                 | 7.94               |
 | 18650 Batterie                               | Alimentation électrique pour moteu           | 8.00                 | 16.00              |
+                                                                                                                     | Total: 161.62      |
 
 
 
