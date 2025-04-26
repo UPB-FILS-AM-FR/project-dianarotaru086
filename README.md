@@ -27,6 +27,9 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 ## Schéma fonctionnel
 ![Diagrama bloc](./Block_Diagram_01.png)
 
+## Schéma des composants du robot
+![Robot_Components](./Robot_Components.png)
+
 ## Composants
 
 | Appareil                                                  | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
