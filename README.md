@@ -1,3 +1,4 @@
+|Auteur| Diana Maria Rotaru |
 <h2>Robot contrôlé par claquement de mains avec Arduino Uno 👏 </h2>
 
 ## Description
@@ -46,6 +47,8 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 |                                                           |                                              |                      | Total: 188.15      |
 
 
+## Référence
+[Tutorial](https://www.youtube.com/watch?v=EZhxfLhEE3o)
 
 
 
