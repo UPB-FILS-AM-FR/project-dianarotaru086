@@ -1,4 +1,4 @@
-<h2>🤖 Robot contrôlé par claquement de mains avec Arduino Uno 👏 </h2>
+<h2>Robot contrôlé par claquement de mains avec Arduino Uno 👏 </h2>
 
 ## Description
 
@@ -26,17 +26,16 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 
 ## Composants
 
-| Appareil                                     | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
-|----------------------------------------------|----------------------------------------------|----------------------|--------------------|
-| Arduino Uno R3 (ATmega328p + ATmega16u2)     | Microcontrôleur                              | 45.69                | 45.69              |
-| Câble USB                                    | Pour faire la connection                     | 5.95                 | 5.95               |
-| L293D Module de commande de moteur           | Pilote de moteur pour contrôler les moteurs  | 12.99                | 12.99              |
-| DC 12V Moteurs à engrenages avec roues       | Moteurs pour le mouvement des robots         | 14.99                | 59.96              |
-| KY-038 Module de capteur sonore              | Capteur de détection sonore                  | 5.95                 | 5.95               |
-| 18650 Support de batterie avec interrupteur  | Support de batterie pour alimentation        | 7.14                 | 7.14               |
-| Fils de liaison (mâle-femelle)               | Composants de connexion                      | 7.94                 | 7.94               |
-| 18650 Batterie                               | Alimentation électrique pour moteu           | 8.00                 | 16.00              |
-|                                              |                                              |                      | Total: 161.62      |
+| Appareil                                                  | Usage                                        | Prix unitaire (RON)  |  Prix total (RON)  |
+|-----------------------------------------------------------|----------------------------------------------|----------------------|--------------------|
+| Arduino Uno R3 (ATmega328p + ATmega16u2) + cable USB      | Microcontrôleur                              | [54.37](https://www.optimusdigital.ro/ro/placi-avr/4561-placa-de-dezvoltare-compatibila-cu-arduino-uno-r3-atmega328p-atmega16u2-cablu-50-cm.html)  | 54.37              |
+| L293D Module de commande de moteur                        | Pilote de moteur pour contrôler les moteurs  | 12.99                | 12.99              |
+| DC 12V Moteurs à engrenages avec roues                    | Moteurs pour le mouvement des robots         | 14.99                | 59.96              |
+| KY-038 Module de capteur sonore                           | Capteur de détection sonore                  | 5.95                 | 5.95               |
+| 18650 Support de batterie avec interrupteur               | Support de batterie pour alimentation        | 7.14                 | 7.14               |
+| Fils de liaison (mâle-femelle)                            | Composants de connexion                      | 7.94                 | 7.94               |
+| 18650 Batterie                                            | Alimentation électrique pour moteu           | 8.00                 | 16.00              |
+|                                                           |                                              |                      | Total: 161.62      |
 
 
 
