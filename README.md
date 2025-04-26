@@ -32,7 +32,7 @@ Dans le milieu industriel, cette pointe de robot peut être utilisée pour ajust
 | 18650 Support de batterie avec interrupteur  | Support de batterie pour alimentation        | 7.14                 | 7.14               |
 | Fils de liaison (mâle-femelle)               | Composants de connexion                      | 7.94                 | 7.94               |
 | 18650 Batterie                               | Alimentation électrique pour moteu           | 8.00                 | 16.00              |
-                                                                                                                     | Total: 161.62      |
+|                                              |                                              |                      | Total: 161.62      |
 
 
 
