@@ -6,7 +6,9 @@
 
 ## Description
 
-Ces dernières années, la technologie robotique a considérablement évolué, offrant des solutions innovantes pour un large éventail de domaines, de l’éducation et de la sécurité à l’automatisation industrielle. Un exemple d'une telle solution est le robot contrôlé par des applaudissements, qui utilise Arduino Uno et un module de capteur sonore pour interagir avec l'utilisateur. Ce projet propose un moyen simple, mais extrêmement efficace, de contrôler un robot par le son, notamment en applaudissant.
+Ces dernières années, la technologie robotique a considérablement évolué, offrant des solutions innovantes pour un large éventail de domaines, de l’éducation et de la sécurité à l’automatisation industrielle. Un exemple d'une telle solution est le robot contrôlé par des applaudissements, qui utilise Arduino Uno et un module de capteur sonore pour interagir avec l'utilisateur.
+
+Ce projet consiste en un robot mobile capable de détecter les claquements de mains et d’y répondre en effectuant différentes actions (avancer, reculer, tourner à gauche/droite, s’arrêter). Basé sur une carte Arduino Uno, il utilise un capteur sonore KY-038 pour reconnaître les applaudissements et un module L293D pour contrôler les moteurs.
 
 ## Motivation
 
@@ -14,7 +16,7 @@ L’un des principaux avantages de ce projet est sa polyvalence. Bien que le rob
 
 Systèmes de contrôle gestuel pour les utilisateurs handicapés: L’un des domaines les plus importants dans lesquels ce projet pourrait apporter des avantages significatifs est l’accessibilité. Les personnes à mobilité réduite pourraient utiliser les applaudissements pour contrôler des robots ou d’autres appareils électroniques. Cela permettrait de rendre la technologie plus accessible à un large public.
 
-Robots éducatifs pour l'apprentissage de la robotique: Le projet peut devenir une excellente base pour un robot éducatif, aidant les étudiants à apprendre les concepts fondamentaux de la robotique et de l’électronique. Dans les cours de robotique, les élèves peuvent en apprendre davantage sur les capteurs sonores, le contrôle des moteurs et la programmation à l'aide d'Arduino, le tout grâce à un contrôle robotique simple et intuitif.
+Robots éducatifs pour l'apprentissage de la robotique: Le projet peut devenir une excellente base pour un robot éducatif, aidant les étudiants à apprendre les concepts fondamentaux de la robotique et de l’électronique. Idéal pour les ateliers STEM (Science, Technology, Engineering, Mathematics) et excellent outil pour apprendre la programmation Arduino, la détection sonore et le contrôle des moteurs.
 
 Automatisation industrielle et collaborative: Dans le milieu industriel, cette pointe de robot peut être utilisée pour ajuster l'automatisation d'un ou de sarcins répétitifs. Par exemple, un robot peut transporter des objets dans un dépôt, et un autre peut contrôler plusieurs robots à partir de la main, en coordonnant le travail pour divers sarcins.
 
