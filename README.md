@@ -24,7 +24,7 @@ Le composant de traitement est réalisé par une carte Arduino Uno R3. Celui-ci 
 
 Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux moteurs de roue. Le pilote L293D permet le contrôle bidirectionnel des moteurs à courant continu, permettant au robot d'avancer, de tourner ou de s'arrêter en fonction des commandes. Le système est alimenté par un support de batterie 18650, offrant portabilité et autonomie.
 
-## Diagrama bloc a proiectului
+## Schéma fonctionnel
 ![Diagrama bloc](./BLOCK_DIAGRAM.png)
 
 ## Composants
