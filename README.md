@@ -16,7 +16,9 @@ Automatisation industrielle et collaborative: Dans le milieu industriel, cette p
 
 ## Architecture
 
-Le système de robot contrôlé par clap comprend plusieurs composants qui fonctionnent ensemble pour détecter les sons de clap et contrôler le mouvement du robot. L'architecture du système peut être divisée en trois parties principales : la détection, le traitement et l'actionnement. Le composant de détection se compose d'un module de microphone avec un capteur sonore (par exemple KY-038 ou KY-037), qui est chargé de détecter les applaudissements ou autres sons courts dans l'environnement. Ce module convertit les variations de pression sonore en signaux électriques interprétables par le microcontrôleur.
+Le système de robot contrôlé par clap comprend plusieurs composants qui fonctionnent ensemble pour détecter les sons de clap et contrôler le mouvement du robot. L'architecture du système peut être divisée en trois parties principales : la détection, le traitement et l'actionnement. 
+
+Le composant de détection se compose d'un module de microphone avec un capteur sonore (par exemple KY-038 ou KY-037), qui est chargé de détecter les applaudissements ou autres sons courts dans l'environnement. Ce module convertit les variations de pression sonore en signaux électriques interprétables par le microcontrôleur.
 
 Le composant de traitement est réalisé par une carte Arduino Uno R3. Celui-ci reçoit le signal du capteur sonore et l'interprète pour déterminer si un applaudissement a été détecté. En fonction du nombre et de la séquence de battements détectés, Arduino envoie des commandes aux modules de contrôle du moteur pour effectuer des actions telles que : avancer, reculer, tourner à gauche ou à droite.
 
