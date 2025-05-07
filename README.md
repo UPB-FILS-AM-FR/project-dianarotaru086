@@ -53,7 +53,6 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 | 18650 Batterie                                            | Alimentation électrique pour moteu           | [19.90](https://altex.ro/acumulator-ideallstore-gh-18650-6800-mah-3-7-v-li-ion-rosu/cpd/66F29733DE86D/)                | 39.80              |
 |                                                           |                                              |                      | Total: 188.15      |
 
-145) |
 
 ### Libraries
 
