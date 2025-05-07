@@ -2,7 +2,7 @@
 
 |                     |                     |
 |---------------------|---------------------|
-| Autheur             | [Diana Maria Rotaru](https://github.com/dianarotaru086) |
+| Auteur              | [Diana Maria Rotaru](https://github.com/dianarotaru086) |
 
 
 ## Description
