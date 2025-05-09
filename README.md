@@ -58,8 +58,8 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+|  |  | |
+| |  |  |
 
 ## Log
 
