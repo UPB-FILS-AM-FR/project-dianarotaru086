@@ -75,6 +75,7 @@ Cette semaine j'ai commencé la partie hardware. J'ai assemblé le châssis à p
 
 ## Référence
 [Tutorial](https://www.youtube.com/watch?v=EZhxfLhEE3o)
+
 [Article 1](https://www.youtube.com/watch?v=ilS-Js23DPw&t=12s)
 
 
