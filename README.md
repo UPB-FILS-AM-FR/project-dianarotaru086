@@ -66,7 +66,9 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 ### Semaine 9 - 21 Avril
 J'ai acheté les composants du robot sur les sites Web: [Sigmanortec](https://sigmanortec.ro/) et [Optimus Digital](https://www.optimusdigital.ro/)
 
-### Week 7 - 19 May
+### Semaine 11 - 5 Mai
+Cette semaine j'ai commencé la partie hardware. J'ai assemblé le châssis à partir de : 2 morceaux de carton de 18x16 cm, motoréducteurs avec roues. J'ai soudé les fils mâle-mâle par motoréducteurs. J'ai connecté la carte Arduino au pilote du moteur et les ai collés ensemble avec du ruban adhésif double face en carton.
+
 
 ### Week 20 - 26 May
 
