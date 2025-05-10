@@ -63,7 +63,8 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 
 ## Log
 
-### Week 6 - 12 May
+### Semaine 9 - 21 Avril
+J'ai acheté les composants du robot sur les sites Web: [Sigmanortec](https://sigmanortec.ro/) et [Optimus Digital](https://www.optimusdigital.ro/)
 
 ### Week 7 - 19 May
 
