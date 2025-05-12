@@ -1,5 +1,6 @@
 <h2>Robot contrôlé par claquement de mains avec Arduino Uno </h2>
 
+|                     |                     |
 |---------------------|---------------------|
 | Auteur              | [Diana Maria Rotaru](https://github.com/dianarotaru086) |
 
