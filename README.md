@@ -58,8 +58,11 @@ Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux m
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-|  |  | |
-| |  |  |
+| AdaFruit - Motor Sheild| pour contrôler les moteurs à courant continu, les moteurs pas à pas et les servomoteurs via la carte Adafruit Motor Shield (v1 ou v2) | #include <AFMotor.h>
+
+Contrôle du moteur à courant continu :
+Moteur AF_DCMotor (numéro_port, fréquence) ; moteur.setSpeed(vitesse); moteur.run(direction); |
+
 
 ## Log
 
