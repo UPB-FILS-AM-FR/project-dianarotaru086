@@ -69,8 +69,6 @@ J'ai acheté les composants du robot sur les sites Web: [Sigmanortec](https://si
 ### Semaine 11 - 5 Mai
 Cette semaine j'ai commencé la partie hardware. J'ai assemblé le châssis à partir de : 2 morceaux de carton de 18x16 cm, motoréducteurs avec roues. J'ai soudé les fils mâle-mâle par motoréducteurs. J'ai connecté la carte Arduino au pilote du moteur et les ai collés ensemble avec du ruban adhésif double face en carton.
 
-<img src="FullSizeRender.png" width="300" /> 
-
 ### Semaine 12 - 12 Mai
 Cette semaine j'ai terminé la partie hardware. J'ai connecté les fils des motoréducteurs au driver L298D. J'ai connecté le support de batterie au même pilote. pour le capteur sonore, j'ai connecté les fils père-père : GND - GND, OUT - D10, Vcc- 5V.
 
