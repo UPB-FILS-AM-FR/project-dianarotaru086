@@ -74,6 +74,8 @@ Cette semaine j'ai commencé la partie hardware. J'ai assemblé le châssis à p
 ### Semaine 12 - 12 Mai
 Cette semaine j'ai terminé la partie hardware. J'ai connecté les fils des motoréducteurs au driver L298D. J'ai connecté le support de batterie au même pilote. pour le capteur sonore, j'ai connecté les fils père-père : GND - GND, OUT - D10, Vcc- 5V.
 
+<img src="IMG_069.jpeg" width="300" /> 
+
 ## Référence
 [Tutorial](https://www.youtube.com/watch?v=EZhxfLhEE3o)
 
