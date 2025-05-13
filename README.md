@@ -9,13 +9,13 @@
 
 Ces dernières années, la technologie robotique a considérablement évolué, offrant des solutions innovantes pour un large éventail de domaines, de l’éducation et de la sécurité à l’automatisation industrielle. Un exemple d'une telle solution est le robot contrôlé par des applaudissements, qui utilise Arduino Uno et un module de capteur sonore pour interagir avec l'utilisateur.
 
-Ce projet consiste en un robot mobile capable de détecter les claquements de mains et d’y répondre en effectuant différentes actions (avancer, reculer, tourner à gauche/droite, s’arrêter). Basé sur une carte Arduino Uno, il utilise un capteur sonore KY-038 pour reconnaître les applaudissements et un module L293D pour contrôler les moteurs.
+Ce projet consiste en un robot mobile capable de détecter les claquements de mains et d’y répondre en effectuant différentes actions (avancer, reculer, tourner à gauche/droite, s’arrêter). 
 
 ## Motivation
 
 L’un des principaux avantages de ce projet est sa polyvalence. Bien que reposant sur une conception électronique minimaliste, la plateforme offre des possibilités d’extension quasi illimitées pour des applications avancées dans divers domaines technologiques.
 
-Systèmes de contrôle gestuel pour les utilisateurs handicapés: L’un des domaines les plus importants dans lesquels ce projet pourrait apporter des avantages significatifs est l’accessibilité. Les personnes à mobilité réduite pourraient utiliser les applaudissements pour contrôler des robots ou d’autres appareils électroniques. 
+Systèmes de contrôle gestuel pour les utilisateurs handicapés: L’un des domaines les plus importants dans lesquels ce projet pourrait apporter des avantages significatifs est l’accessibilité. 
 
 Robots éducatifs pour l'apprentissage de la robotique: Le projet peut devenir une excellente base pour un robot éducatif, aidant les étudiants à apprendre les concepts fondamentaux de la robotique et de l’électronique. 
 
@@ -29,7 +29,7 @@ Le composant de détection se compose d'un module de microphone avec un capteur 
 
 Le composant de traitement est réalisé par une carte Arduino Uno R3. En fonction du nombre et de la séquence de battements détectés, Arduino envoie des commandes aux modules de contrôle du moteur pour effectuer des actions telles que : avancer, reculer, tourner à gauche ou à droite.
 
-Le composant d'entraînement se compose d'un pilote de moteur L293D et de deux moteurs de roue. Le pilote L293D permet le contrôle bidirectionnel des moteurs à courant continu, permettant au robot d'avancer, de tourner ou de s'arrêter en fonction des commandes. 
+Le composant d'entraînement se compose d'un pilote de moteur L293D et de quatre moteurs de roue. Le pilote L293D permet le contrôle bidirectionnel des moteurs à courant continu, permettant au robot d'avancer, de tourner ou de s'arrêter en fonction des commandes. 
 
 Le système est alimenté par un support de batterie 18650, offrant portabilité et autonomie.
 
